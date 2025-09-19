@@ -1,4 +1,3 @@
-// Processing sketch: house + tree + car on the path
 void setup() {
   size(400, 400);
   noStroke();
