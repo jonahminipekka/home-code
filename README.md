@@ -1,3 +1,9 @@
+Reflection: 
+I found making something from nothing was very cool, and I liked the way we drew what we were creating first. I found that making the small car and the sun were very challenging. I had to look up a video at one point, just because I needed help and forgot about the code in class. I learned a lot about coding on my own while also learning a little bit from the videos. I am starting to get comfortable with coding for now. 
+
+
+CODE
+
 void setup() {
   size(400, 400);
   noStroke();
@@ -110,4 +116,5 @@ void drawCar(float x, float y, float s) {
   ellipse(x + 12*s, y, 6*s, 6*s);
   ellipse(x + 48*s, y, 6*s, 6*s);
 }
+
 # home-code
